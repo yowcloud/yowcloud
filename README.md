@@ -1,11 +1,11 @@
 # ¡Hola! Soy Gustavo GO 👋
 
-¡Bienvenido/a a mi espacio en GitHub! Soy estudiante de Desarrollo de Aplicaciones Multiplataforma en [Ilerna](https://www.ilerna.es/) Barcelona y actualmente resido en Barcelona.
+¡Bienvenido/a a mi espacio en GitHub! Soy estudiante de Desarrollo de Aplicaciones Multiplataforma en [Ilerna Barcelona](https://www.ilerna.es/) y actualmente resido en Barcelona.
 
 ## Sobre mí
 
 - 🌍 **Ubicación:** Barcelona, España
-- 💼 **Estudiante:** Desarrollo de Aplicaciones Multiplataforma en [Ilerna](https://www.ilerna.es/)
+- 💼 **Estudiante:** Desarrollo de Aplicaciones Multiplataforma en [Ilerna Barcelona](https://www.ilerna.es/)
 - 🎓 **Educación:** Estoy cursando el ciclo superior de Desarrollo de Aplicaciones Multiplataforma.
 
 ## Habilidades
