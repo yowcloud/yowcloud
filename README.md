@@ -33,6 +33,6 @@
 ## Contacto
 
 - 📧 **Correo electrónico:** yowcloud@outlook.es
-- 💬 **LinkedIn:** [Gustavo Gonzales Orellana]([link_de_tu_perfil_de_LinkedIn](https://www.linkedin.com/in/gustavo-gonzales-orellana-a8270529b/))
+- 💬 **LinkedIn:** [Gustavo Gonzales Orellana]([www.linkedin.com/in/gustavo-gonzales-orellana-a8270529b])
 
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí. 😊
