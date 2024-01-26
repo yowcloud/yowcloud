@@ -1,40 +1,84 @@
-# ¡Hola! Soy Gustavo GO 👋
+<br clear="both">
 
-¡Bienvenido/a a mi espacio en GitHub! Soy estudiante de Desarrollo de Aplicaciones Multiplataforma en [Ilerna Barcelona](https://www.ilerna.es/) y actualmente resido en Barcelona.
+<h1 align="left">¡Hola! Soy Gustavo GO 👋</h1>
 
-## Sobre mí
+###
 
-- 🌍 **Ubicación:** Barcelona, España
-- 💼 **Estudiante:** Desarrollo de Aplicaciones Multiplataforma en [Ilerna Barcelona](https://www.ilerna.es/)
-- 🎓 **Educación:** Estoy cursando el ciclo superior de Desarrollo de Aplicaciones Multiplataforma.
+<p align="left">¡Bienvenido/a a mi espacio en GitHub! Soy estudiante de Desarrollo de Aplicaciones Multiplataforma en Ilerna Barcelona y actualmente resido en Barcelona.</p>
 
-## Habilidades
+###
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<h2 align="left">Sobre mi</h2>
 
+###
 
+<p align="left">🌍 Ubicación: Barcelona, España<br>💼 Estudiante: Desarrollo de Aplicaciones Multiplataforma en Ilerna Barcelona<br>🎓 Educación: Estoy cursando el ciclo superior de Desarrollo de Aplicaciones Multiplataforma.</p>
 
+###
 
+<h2 align="left">Habilidades</h2>
 
-## Estadísticas de GitHub
+###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yowcloud&label=Profile%20views&color=0e75b6&style=flat" alt="yowcloud" /> </p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yowcloud" alt="yowcloud" /></a> </p>
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h2 align="left">IDE</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yowcloud&show_icons=true&locale=en&layout=compact" alt="yowcloud" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yowcloud&show_icons=true&locale=en" alt="yowcloud" /></p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yowcloud&" alt="yowcloud" /></p>
+###
 
-## Contacto
+<h2 align="left">Estadísticas</h2>
 
-- ✉️ **Correo electrónico:** yowcloud@outlook.es
-- 🔗 **LinkedIn:** [Gustavo Gonzales Orellana](https://www.linkedin.com/in/gustavo-gonzales-orellana-a8270529b)
+###
 
-¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí. 😊
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yowcloud&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yowcloud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/yowcloud/yowcloud/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/yowcloud/count.svg?"  />
+</div>
+
+###
