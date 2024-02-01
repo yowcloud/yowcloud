@@ -69,7 +69,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yowcloud/yowcloud/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/yowcloud/yowcloud/main/snake.svg" alt="Snake animation" />
+
 
 ###
 
@@ -80,7 +81,8 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/yowcloud/count.svg?"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_username&count=5" alt="Spotify reproducciones recientes"  />
 </div>
+
 
 ###
