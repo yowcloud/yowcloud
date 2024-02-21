@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🌍 Location: Barcelona, Spain<br>💼 Occupation: Student of Multiplatform Application Development at Ilerna Barcelona<br>🎓 Education: Currently pursuing a higher-level cycle in Multiplatform Application Development.</p>
+<p align="left">🌍 Location: Barcelona, Spain<br>💼 Occupation: Student 42 Barcelona & student of Multiplatform Application Development at Ilerna Barcelona<br>🎓 Education: I am currently studying Multiplatform Application Development.</p>
 
 ###
 
