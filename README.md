@@ -55,7 +55,7 @@
 - - -
 <h2>42 Barcelona </h2>
 <details>
-<summary>More information about these 42 bangkok projects</summary>
+<summary>More information about the projects</summary>
 
 | Circle | Language | Project       | Description | Status    |
 | ------ | -------- | ------------- | ----------- | --------- |
