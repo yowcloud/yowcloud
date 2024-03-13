@@ -54,4 +54,6 @@
 
 - - -
 <h2>42 Barcelona </h2>
-[![gusgonza's 42 stats](https://badge.mediaplus.ma/binary/gusgonza)](https://github.com/oakoudad/badge42)</div>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/gusgonza" alt="gusgonza's 42 stats" /></a>
+
+</div>
