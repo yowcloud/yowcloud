@@ -44,10 +44,11 @@
   </div>
 
   <br>
-  <h2 >Statistics</h2>
+<h2>Statistics</h2>
 
- | [![yowcloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=yowcloud&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1)](https://github.com/yowcloud?tab=repositories) | [![yowcloud's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=yowcloud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)](https://github.com/yowcloud?tab=repositories) | [![yowcloud's GitHub Streak](https://streak-stats.demolab.com?user=yowcloud&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3)](https://github.com/yowcloud) |
+| [![yowcloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=yowcloud&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1)](https://github.com/yowcloud?tab=repositories) | [![yowcloud's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=yowcloud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)](https://github.com/yowcloud?tab=repositories) | [![yowcloud's GitHub Streak](https://streak-stats.demolab.com?user=yowcloud&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3)](https://github.com/yowcloud) |
 |:-:|:-:|:-:|
+
 
 - - -
 <h2>42 Barcelona </h2>
