@@ -52,6 +52,6 @@
 |:-:|:-:|:-:|
 
 
-
-  <br>[![gusgonza's 42 stats](https://badge42.coday.fr/api/v2/cltqesspu596101p4us9juo9p/stats?cursusId=21&coalitionId=204)](https://github.com/Coday-meric/badge42)
-</div>
+- - -
+<h2>42 Barcelona </h2>
+[![gusgonza's 42 stats](https://badge.mediaplus.ma/binary/gusgonza)](https://github.com/oakoudad/badge42)</div>
