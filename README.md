@@ -5,8 +5,7 @@
 
   <br>
 
-  <p align="left">Welcome to my space on GitHub! I'm a student of Multiplatform Application Development at Ilerna Barcelona, currently residing in Barcelona.</p>
-
+<p align="left">Welcome to my space on GitHub! I'm a student of 42 Barcelona & Multiplatform Application Development at Ilerna Barcelona, currently residing in Barcelona.</p>
   <br>
 
   <h2 align="left">About me</h2>
