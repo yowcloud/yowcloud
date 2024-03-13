@@ -1,7 +1,7 @@
 <div align="center">
   <br clear="both">
 
-  <h1 align="left">Hello! I'm Gustavo GO 👋</h1>
+  <h1 >Hello! I'm Gustavo GO 👋</h1>
 
   <br>
 
