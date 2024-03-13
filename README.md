@@ -54,6 +54,17 @@
 
 - - -
 <h2>42 Barcelona </h2>
+<details>
+<summary>More information about these 42 bangkok projects</summary>
+
+| Circle | Language | Project       | Description | Status    |
+| ------ | -------- | ------------- | ----------- | --------- |
+| 0      | ![Libft top language](https://img.shields.io/github/languages/top/yowcloud/Libft?style=flat-square) | [Libft](https://github.com/yowcloud/Libft)         | A library containing various custom C functions, created as a foundational project for the 42 curriculum.       | [![gusgonza's 42 Libft Score](https://badge42.coday.fr/api/v2/cltqesspu596101p4us9juo9p/project/3469004)](https://github.com/Coday-meric/badge42) |
+| 1      | ![Born2beRoot top language](https://img.shields.io/github/languages/top/yowcloud/Born2beRoot?style=flat-square) | [Born2beRoot](https://github.com/yowcloud/Born2beRoot)   | A system administration project focused on configuring and securing a virtual machine running a basic web server.       | [![gusgonza's 42 Born2beroot Score](https://badge42.coday.fr/api/v2/cltqesspu596101p4us9juo9p/project/3550295)](https://github.com/Coday-meric/badge42) |
+| 1      | ![ft_printf top language](https://img.shields.io/github/languages/top/yowcloud/ft_printf?style=flat-square) | [ft_printf](https://github.com/yowcloud/ft_printf)     | An implementation of the printf function in C, allowing formatted output to various streams.        | [![gusgonza's 42 ft_printf Score](https://badge42.coday.fr/api/v2/cltqesspu596101p4us9juo9p/project/3550838)](https://github.com/Coday-meric/badge42) |
+| 1      | ![get_next_line top language](https://img.shields.io/github/languages/top/yowcloud/get_next_line?style=flat-square) | [get_next_line](https://github.com/yowcloud/get_next_line) | A function designed to read a line from a file descriptor, useful for parsing files or streams line by line.   | [![gusgonza's 42 get_next_line Score](https://badge42.coday.fr/api/v2/cltqesspu596101p4us9juo9p/project/3550839)](https://github.com/Coday-meric/badge42) |
+
+</details>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/gusgonza" alt="gusgonza's 42 stats" /></a>
 
 </div>
