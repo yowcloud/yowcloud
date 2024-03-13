@@ -65,6 +65,5 @@
 | 1      | ![get_next_line top language](https://img.shields.io/github/languages/top/yowcloud/get_next_line?style=flat-square) | [get_next_line](https://github.com/yowcloud/get_next_line) | A function designed to read a line from a file descriptor, useful for parsing files or streams line by line.   | [![gusgonza's 42 get_next_line Score](https://badge42.coday.fr/api/v2/cltqesspu596101p4us9juo9p/project/3550839)](https://github.com/Coday-meric/badge42) |
 
 </details>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/gusgonza" alt="gusgonza's 42 stats" /></a>
-
+[![gusgonza's 42 stats](https://badge.mediaplus.ma/black/gusgonza)](https://github.com/oakoudad/badge42)
 </div>
