@@ -1,6 +1,4 @@
 <div align="center">
-  <br clear="both">
-
   <h1 >Hello! I'm Gustavo GO 👋</h1>
 
   <br>
