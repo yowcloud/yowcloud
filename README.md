@@ -1,4 +1,4 @@
-<center>
+<div align="center">
   <br clear="both">
 
   <h1 align="left">Hello! I'm Gustavo GO 👋</h1>
@@ -52,15 +52,11 @@
 
   <br>|
 
-  <table align="center">
-    <tr>
-      <td><a href="https://github.com/yowcloud?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=yowcloud&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="yowcloud's GitHub stats"></a></td>
-      <td><a href="https://github.com/yowcloud?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yowcloud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="yowcloud's most used languages"></a></td>
-      <td><a href="https://github.com/yowcloud"><img src="https://streak-stats.demolab.com?user=yowcloud&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="yowcloud's GitHub Streak"></a></td>
-    </tr>
-  </table>
+ | [![yowcloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=yowcloud&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1)](https://github.com/yowcloud?tab=repositories) | [![yowcloud's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=yowcloud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)](https://github.com/yowcloud?tab=repositories) | [![yowcloud's GitHub Streak](https://streak-stats.demolab.com?user=yowcloud&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3)](https://github.com/yowcloud) |
+|:-:|:-:|:-:|
 
-  |:-:|:-:|:-:|
+<img src="https://github-profile-trophy.vercel.app?username=gusgonza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+
 
   <br>[![gusgonza's 42 stats](https://badge42.coday.fr/api/v2/cltqesspu596101p4us9juo9p/stats?cursusId=21&coalitionId=204)](https://github.com/Coday-meric/badge42)
-</center>
+</div>
