@@ -52,6 +52,24 @@
 
 - - -
 <h2>42 Barcelona </h2>
+<div>
+<br>
+<a href="https://github.com/yowcloud/Libft">
+    <img alt="viruskizz push_swap" src="https://raw.githubusercontent.com/yowcloud/yowcloud-my-utils/main/badge_libft_500px.png" width="150" height="150">
+</a>
+<a href="https://github.com/yowcloud/Born2beRoot">
+    <img alt="viruskizz push_swap" src="https://raw.githubusercontent.com/yowcloud/yowcloud-my-utils/main/badge_born2beroot_500px.png" width="150" height="150">
+</a>
+<a href="https://github.com/yowcloud/ft_printf">
+    <img alt="viruskizz push_swap" src="https://raw.githubusercontent.com/yowcloud/yowcloud-my-utils/main/badge_ft_printf_500px.png" width="150" height="150">
+</a>
+<a href="https://github.com/yowcloud/get_next_line">
+    <img alt="viruskizz push_swap" src="https://raw.githubusercontent.com/yowcloud/yowcloud-my-utils/main/badge_get_next_line_500px.png" width="150" height="150">
+</a>
+
+  
+</div>
+
 <details>
 <summary>More information about the projects</summary>
 
