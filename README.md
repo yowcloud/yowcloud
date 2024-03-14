@@ -55,16 +55,16 @@
 <h2>42 Barcelona</h2>
 <div align="center">
     <a href="https://github.com/yowcloud/Libft">
-        <img alt="Libft" src="https://raw.githubusercontent.com/yowcloud/yowcloud-my-utils/main/badge_libft_500px.png" width="150" height="150">
+        <img alt="Libft" src="https://raw.githubusercontent.com/yowcloud/yowcloud-my-utils/main/badge_00_libft_500px.png" width="150" height="150">
     </a>
     <a href="https://github.com/yowcloud/Born2beRoot">
-        <img alt="Born2beRoot" src="https://raw.githubusercontent.com/yowcloud/yowcloud-my-utils/main/badge_born2beroot_500px.png" width="150" height="150">
+        <img alt="Born2beRoot" src="https://raw.githubusercontent.com/yowcloud/yowcloud-my-utils/main/badge_01_born2beroot_500px.png" width="150" height="150">
     </a>
     <a href="https://github.com/yowcloud/ft_printf">
-        <img alt="ft_printf" src="https://raw.githubusercontent.com/yowcloud/yowcloud-my-utils/main/badge_ft_printf_500px.png" width="150" height="150">
+        <img alt="ft_printf" src="https://raw.githubusercontent.com/yowcloud/yowcloud-my-utils/main/badge_01_ft_printf_500px.png" width="150" height="150">
     </a>
     <a href="https://github.com/yowcloud/get_next_line">
-        <img alt="get_next_line" src="https://raw.githubusercontent.com/yowcloud/yowcloud-my-utils/main/badge_get_next_line_500px.png" width="150" height="150">
+        <img alt="get_next_line" src="https://raw.githubusercontent.com/yowcloud/yowcloud-my-utils/main/badge_01_get_next_line_500px.png" width="150" height="150">
     </a>
 </div>
 
